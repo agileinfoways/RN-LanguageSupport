@@ -1,0 +1,12 @@
+{
+    "login": {
+      "welcome": "مرحبًا {{name}} في تطبيقنا المترجم!",
+      "login_button": "تسجيل الدخول",
+      "signup_button": "سجل",
+      "hello": "أهلاً بالعالم",
+      "message":"مرحبا بكم في رشيق Infoways"
+    },
+    "user_profile": {
+      "title": "ملفك الشخصي"  
+    }
+  }

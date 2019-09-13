@@ -1,0 +1,12 @@
+{
+    "login": {
+      "welcome": "आपका स्वागत है {{name}} हमारे स्थानीयकृत ऐप में!",
+      "login_button": "लॉग इन करें",
+      "signup_button": "साइन अप करें",
+      "hello": "नमस्ते दुनिया!",
+      "message":"Agile Infoways में आपका स्वागत है"
+    },
+    "user_profile": {
+      "title": "आपकी रूपरेखा"  
+    }
+  }
